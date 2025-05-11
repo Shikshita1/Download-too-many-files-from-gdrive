@@ -11,4 +11,8 @@ Steps to be followed:
 3. Register an app using Oauth Consent Screen
 4. Get Credentials in the form of .json file
 5. Run this code after installing necessary dependencies.
+
+
+   Create a new python 3.11 environment and install the following:
    
+!pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
