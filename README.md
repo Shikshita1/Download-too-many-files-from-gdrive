@@ -1,4 +1,4 @@
-# Download many files at once in google drive
+# Download 1000+ files at once from google drive
 Download folders in google drive with 10000+ files
 
 When there are lots of files inside a single directory in google drive, it is annoying to download it directly by default zipping process.It is also difficult to just find a few files and download them.
