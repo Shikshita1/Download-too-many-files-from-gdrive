@@ -11,9 +11,11 @@ Steps to be followed:
 3. Register an app using Oauth Consent Screen
 4. Get Credentials in the form of .json file (credentials.json). Add this file in the same folder where your code is located.
 5. You might have to add yourself as a test user inside 'Audience' of OAuth Consent Screen.
-6. Run this code after installing necessary dependencies.
+6. Run this code after installing necessary dependencies.**
 
 
 *Create a new python 3.11 environment and install the following:
    
 !pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+** This code was written specifically for downloading MSWEP and MSWX precipitation data. You will need URL of the shared folder so that you can extract id and use it in the code to download the required folder.
